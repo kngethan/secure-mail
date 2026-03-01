@@ -1,0 +1,7 @@
+streamlit
+spacy
+langchain
+langchain-community
+langchain-ollama  # Optionnel pour la dernière version de l'intégration Ollama
+chromadb
+sentence-transformers
